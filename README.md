@@ -1,10 +1,3 @@
-Oke ✅ berikut **README.md lengkap dan profesional** untuk versi **final dashboard** kamu — yang punya **4 KPI, 4 grafik (termasuk pie chart)**, serta **sidebar meluncur (offcanvas)**.
-File ini siap kamu lampirkan untuk tugas di Google Drive atau GitHub.
-
----
-
-## 🧾 README.md — E-Commerce Sales Dashboard
-
 
 # 🛒 E-Commerce Sales Dashboard
 
