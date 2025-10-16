@@ -144,15 +144,6 @@ plotly==5.24.1
 
 ---
 
-## 🧠 Ide Pengembangan Lanjutan
-
-✨ Tambahkan **tabel Top 10 Produk Terlaris** di bawah grafik.
-✨ Integrasikan dengan **database MySQL/PostgreSQL** agar data bisa real-time.
-✨ Gunakan **`dcc.Interval`** untuk update otomatis (live dashboard).
-✨ Tambahkan **download button** (ekspor CSV atau gambar grafik).
-✨ Ubah tema ke `dbc.themes.MATERIA` untuk tampilan glossy modern.
-
----
 
 ## 📜 Lisensi
 
