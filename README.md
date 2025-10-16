@@ -44,7 +44,7 @@ Aplikasi ini menampilkan **indikator KPI**, **grafik interaktif**, dan **sidebar
 
 📂 Project Directory
 │
-├── app_dash_sales_final_pie.py   # File utama aplikasi
+├── sales_dash.py   # File utama aplikasi
 ├── data/
 │   └── sales_data.csv            # Dataset dummy penjualan
 ├── requirements.txt              # Daftar dependensi
